@@ -10,7 +10,7 @@
 
 ## Spatial Analysis 
 
-![]images/Powerplants details.png)
+![](images/Powerplants details.png)
 
 Differnet powerplants and their buffered properties within 30km 
 
