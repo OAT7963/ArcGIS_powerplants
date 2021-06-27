@@ -10,12 +10,12 @@
 
 ## Spatial Analysis 
 
-![](Images/Powerplants details.png)
+![]images/Powerplants details.png)
 
 Differnet powerplants and their buffered properties within 30km 
 
 
-![](Images/Powerplants in SEA.png)
+![](images/Powerplants in SEA.png)
 
 More granular details 
 
